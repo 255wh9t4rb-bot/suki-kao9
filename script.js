@@ -7,7 +7,12 @@ const people = [
   // ここに写真と名前を追加していく
   // 例：
   // { name: "n.top kanghyon", image: "n.top kanghyun.jpg" },
-  // { name: "佐藤花子", image: "images/02.jpg" },
+  // { name: "n.top minseo", image: "n.top minseo.jpg" },
+  // { name: "n.top takuto", image: "n.top takuto.jpg" },
+  // { name: "n.top heewoo", image: "n.top heewoo.jpg" },
+  // { name: "n.top hyunwoong", image: "n.top hyunwoong.jpg" },
+  // { name: "n.top chaemin", image: "n.top chaemin.jpg" },
+  // { name: "n.top changlin", image: "n.top changlin.jpg" },
 
 ];
 
