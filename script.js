@@ -43,6 +43,13 @@ const people = [
    // { name: "NXON MINJAE", image: "nxon ミンジェ.jpg" },
    // { name: "NXON MINGYU", image: "nxon ミンギュ.jpg" },
    // { name: "NXON ZIKI", image: "nxon ジム.jpg" },
+   // { name: "W3WAY　へチョン", image: "w3way へチョン.webp" },
+   // { name: "W3WAY アオイ", image: "w3way アオイ.webp" },
+   // { name: "W3WAY　ウソク", image: "w3way ウソク.webp" },
+   // { name: "W3WAY　シホ", image: "w3way シホ.webp" },
+   // { name: "W3WAY　ドンヒョン", image: "w3way ドンヒョン.webp" },
+   // { name: "W3WAY　リョウ", image: "w3way リョウ.webp" },
+   // { name: "W3WAY　リンタロウ", image: "w3way リンタロウ.webp" },
    
 
 
