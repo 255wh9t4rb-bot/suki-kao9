@@ -35,6 +35,14 @@ const people = [
    // { name: "ANOHRTS ダフン", image: "anohrts ダフン.jpg" },
    // { name: "ANOHRTS ヒュンジェ", image: "anohrts ヒュンジェ.jpg" },
    // { name: "ANOHRTS ギヒョン", image: "anohrts ギヒョン.jpg" },
+   // { name: "NXON KDAY", image: "nxon k day.jpg" },
+   // { name: "NXON K", image: "nxon k.jpg" },
+   // { name: "NXON GYEOM", image: "nxon ギョム.jpg" },
+   // { name: "NXON DAM", image: "nxon ジム.jpg" },
+   // { name: "NXON JOHA", image: "nxon ジョハ.jpg" },
+   // { name: "NXON MINJAE", image: "nxon ミンジェ.jpg" },
+   // { name: "NXON MINGYU", image: "nxon ミンギュ.jpg" },
+   // { name: "NXON ZIKI", image: "nxon ジキ.jpg" },
    
 
 
