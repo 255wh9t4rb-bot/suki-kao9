@@ -12,7 +12,13 @@ const people = [
   // { name: "n.top heewoo", image: "n.top heewoo.jpg" },
   // { name: "n.top hyunwoong", image: "n.top hyunwoong.jpg" },
   // { name: "n.top chaemin", image: "n.top chaemin.jpg" },
-  // { name: "n.top changlin", image: "n.top changlin.jpg" },
+  // { name: "n.top changlin", image: "n.top changlin.jpg" }, 
+　// { name: "dxmon TK", image: "dxmon TK.avlf" }, 
+  // { name: "dxmon hee", image: "dxmon hee.wedp" },
+  // { name: "dxmon rex", image: "dxmon rex.avlf" },
+  // { name: "dxmon セイタ", image: "dxmon セイタ.avlf" },
+  // { name: "dxmon minjae", image: "dxmon ミンジェ.avlf" },
+
 
 ];
 
