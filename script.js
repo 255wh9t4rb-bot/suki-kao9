@@ -50,6 +50,11 @@ const people = [
    // { name: "W3WAY　ドンヒョン", image: "w3way ドンヒョン.webp" },
    // { name: "W3WAY　リョウ", image: "w3way リョウ.webp" },
    // { name: "W3WAY　リンタロウ", image: "w3way リンタロウ.webp" },
+    // { name: "CHASER　カンビン", image: "chaser カンビン.jpg" },
+    // { name: "CHASER　ケイスケ", image: "chaser ケイスケ.jpg" },
+    // { name: "CHASER　シフン", image: "chaser シフン.jpg" },
+    // { name: "CHASER　ユンビン", image: "chaser ユンビン.jpg" },
+    // { name: "CHASER　レン", image: "chaser レン.jpg" },
    
 
 
