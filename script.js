@@ -24,6 +24,13 @@ const people = [
   // { name: "WAKER セビョル", image: "WAKER セビョル.jpeg" },
   // { name: "WAKER セボム", image: "WAKER セボム.jpeg" },
   // { name: "WAKER リオ", image: "WAKER リオ.jpeg" },
+　// { name: "D-ONE イファ", image: "d-one イファ.jpg" },
+   // { name: "D-ONE ジェフン", image: "d-one ジェフン.png" },
+   // { name: "D-ONE ジュヨン", image: "WAKER リオ.jpeg" },
+   // { name: "D-ONE セジン", image: "d-one セジン.jpeg" },
+   // { name: "D-ONE ハン", image: "d-one ハン.jpeg" },
+   // { name: "D-ONE ヒョヌン", image: "d-one ヒョヌン.jpeg" },
+   
 
 
 ];
