@@ -42,7 +42,7 @@ const people = [
    // { name: "NXON JOHA", image: "nxon ジョハ.jpg" },
    // { name: "NXON MINJAE", image: "nxon ミンジェ.jpg" },
    // { name: "NXON MINGYU", image: "nxon ミンギュ.jpg" },
-   // { name: "NXON ZIKI", image: "nxon ジキ.jpg" },
+   // { name: "NXON ZIKI", image: "nxon ジム.jpg" },
    
 
 
