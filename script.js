@@ -18,6 +18,12 @@ const people = [
   // { name: "dxmon rex", image: "dxmon rex.avlf" },
   // { name: "dxmon セイタ", image: "dxmon セイタ.avlf" },
   // { name: "dxmon minjae", image: "dxmon ミンジェ.avlf" },
+  // { name: "WAKER イジュン", image: "weaker イジュン.jpeg" },
+  // { name: "WAKER クォンヒョプ", image: "weaker クォンヒョプ.jpeg" },
+  // { name: "WAKER コヒョン", image: "weaker コヒョン.jpeg" },
+  // { name: "WAKER セビョル", image: "WAKER セビョル.jpeg" },
+  // { name: "WAKER セボム", image: "WAKER セボム.jpeg" },
+  // { name: "WAKER リオ", image: "WAKER リオ.jpeg" },
 
 
 ];
