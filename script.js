@@ -4,7 +4,7 @@
 
 const people = [
 
-  ここに写真と名前を追加していく
+  //ここに写真と名前を追加していく
  { name: "n.top kanghyon", image: "n.top kanghyun.jpg" },
  { name: "n.top minseo", image: "n.top minseo.jpg" },
  { name: "n.top takuto", image: "n.top takuto.jpg" },
