@@ -30,6 +30,11 @@ const people = [
    // { name: "D-ONE セジン", image: "d-one セジン.jpeg" },
    // { name: "D-ONE ハン", image: "d-one ハン.jpeg" },
    // { name: "D-ONE ヒョヌン", image: "d-one ヒョヌン.jpeg" },
+   // { name: "ANOHRTS ウヒョン", image: "anohrts ウヒョン.png" },
+   // { name: "ANOHRTS スンチャン", image: "anohrts スンチャン.jpg" },
+   // { name: "ANOHRTS ダフン", image: "anohrts ダフン.jpg" },
+   // { name: "ANOHRTS ヒュンジェ", image: "anohrts ヒュンジェ.jpg" },
+   // { name: "ANOHRTS ギヒョン", image: "anohrts ギヒョン.jpg" },
    
 
 
